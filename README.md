@@ -1,5 +1,5 @@
 <h1> 👋 Hello there, welcome to my profile!
-<h3> My name is Anika Singh :) </h3>
+<h3> My name is Anika Singh, a Grade 10 IB Student :) </h3>
 
   
   - 🌱 I am currently learning Python, HTML, JavaScript, and SQL
