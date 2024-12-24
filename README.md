@@ -1,1 +1,2 @@
-<h2> Hi, my name is Anika. I am grade 10 student currently studying in the IB program at Glenforest Secondary School </h2> 
+<title> Hi, my name is Anika! </title>
+<body> 15 | MMath Instructor | Secretary @ IntegraYouth </body></body>
