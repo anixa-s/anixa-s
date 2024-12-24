@@ -1,2 +1,2 @@
-<title> Hi, my name is Anika! </title>
-<body> 15 | MMath Instructor | Secretary @ IntegraYouth </body></body>
+<h1> Hi, my name is Anika! </h1>
+15 | Math Instructor | Secretary @ IntegraYouth 
