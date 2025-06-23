@@ -1,5 +1,5 @@
 <h1> Hello, welcome to my profile! My name is Anika. </h1>
-<h4> IB Student at Glenforest Secondary School 🏫| AI/ML Researcher @ Dyne Research 📄| Summer Fellow @ VenturEd </h4>
+<h4> IB Student at Glenforest Secondary School 🏫| AI/ML Researcher @ Dyne Research, Algoverse 📄| Outreach & Content Creation Intern @ Crackd </h4>
 <body>
   I am a high school student, currently experiencing the IB Program at Glenforest Secondary School. As a highly ambitious and dedicated individual, I excel in my academic environment, achieving averages above 95%, and embrace a proactive approach to learning. Outside of school, I take the time to immerse myself in my community and tutor students in Math, Science, and English as part of a non-profit organization that aids children of various backgrounds and economic statuses.
   <br></br>
